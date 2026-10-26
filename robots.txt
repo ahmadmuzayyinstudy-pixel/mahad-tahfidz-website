@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahad-tahfidz-uin-bandung.vercel.app/sitemap.xml
